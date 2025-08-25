@@ -23,20 +23,29 @@
 **Banco de Dados:**  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hznq&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hznq&layout=compact&theme=tokyonight" alt="Top Langs" height="180em"/>
+</p>
 
 ---
+
+### 📈 Atividade Recente
+
 ![Hznq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hznq&theme=react-dark)
 
 ---
 
-
-
 ### 🌟 Objetivos
 
-- Desenvolver projetos práticos com tecnologias modernas
-- Contribuir para a comunidade open-source
-- Aprofundar conhecimentos em desenvolvimento full-stack
-- Buscar oportunidades para crescer profissionalmente
+- Desenvolver projetos práticos com tecnologias modernas  
+- Contribuir para a comunidade open-source  
+- Aprofundar conhecimentos em desenvolvimento full-stack  
+- Buscar oportunidades para crescer profissionalmente  
 
 ---
 

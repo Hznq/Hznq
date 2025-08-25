@@ -26,9 +26,9 @@
 
 ---
 <div align="center">
-  <a href="https://github.com/Hznq">
+  <a href="https://github.com/hznq">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hznq&show_icons=true&theme=dark&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hznq&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hznq&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 ---

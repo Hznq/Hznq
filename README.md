@@ -25,7 +25,8 @@
 
 
 ---
-![Hznq GitHub stats](https://github-readme-stats.vercel.app/api?username=Hznq&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Hznq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hznq&theme=react-dark)
+
 ---
 
 

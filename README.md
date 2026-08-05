@@ -28,15 +28,15 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hznq&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hznq&layout=compact&theme=tokyonight" alt="Top Langs" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hznq&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hznq&layout=compact&theme=tokyonight" alt="Top Langs" height="180em"/>
 </p>
 
 ---
 
 ### 📈 Atividade Recente
 
-![Hznq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hznq&theme=react-dark)
+![Hznq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hznq&theme=react-dark)
 
 ---
 

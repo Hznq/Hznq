@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Gabriel Xavier</h1>
+<h1 align="center"> Gabriel Xavier</h1>
 <h3 align="center">Estudante de Desenvolvimento de Sistemas | ETEC Itaquaquecetuba</h3>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hznq&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180em"/>
@@ -34,13 +34,13 @@
 
 ---
 
-### 📈 Atividade Recente
+###  Atividade Recente
 
 ![Hznq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hznq&theme=react-dark)
 
 ---
 
-### 🌟 Objetivos
+###  Objetivos
 
 - Desenvolver projetos práticos com tecnologias modernas  
 - Contribuir para a comunidade open-source  
@@ -49,7 +49,7 @@
 
 ---
 
-### 📫 Contato
+###  Contato
 
 <div align="center"> 
   <a href="https://www.instagram.com/gabriel_hznq/" target="_blank">
